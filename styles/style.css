@@ -67,7 +67,7 @@
   .banner-img {
     width: 100;
     height: 600px;
-    margin-top: 50px;
+    margin-top:50px;
   }
   .btn {
     padding: 20px 43px;
@@ -243,16 +243,17 @@
     margin-bottom: 24px;
   }
   .instra-images {
-    display: flex;
-    gap: 30px;
+    display:flex;
+    gap: 40px;
   }
   .instra-img {
-    width: 300px;
+    width: 350px;
+    flex-shrink: 0;
   }
   
   .latest {
     margin-top: 100px;
-    background-image: url("../Flower Asset/Rectangle 9.png");
+    background-image: url("../flower-shop-assignment/Flower Asset/Rectangle\ 9.png");
     width: 90%;
     height: 420px;
     margin-left: auto;
